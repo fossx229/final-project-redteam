@@ -4,7 +4,7 @@
 ## Description
 
 Our project was to provide a broad overview of Neo4j which described how it is used, its capabilities, its internal architecture,
-how it is similar and dissimliar to both RDBMS (MariaDB) and Document Oriented (MongoDB) technologies, and provide
+how it is similar and dissimliar to both RDBMS (MariaDB) and Document Oriented (MongoDB) database technologies, and provide
 some of its advantages and disadvantages of using it compared to other options. This was accomplished in the form of a
 paper which contains sections to address these topics.
 
@@ -40,7 +40,7 @@ In retrospect, we both feel that we would have preferred working on an actual im
 An implementation project, depending on how well we did, would have more potential to include in a portfolio for 
 employers and could also (perhaps) help us to absorb and retain the material better. We thought we were probably too
 general in certain sections, which led to an overlap of content for some of the sections we were indvidually responsible for,
-so we think being more specific about what are responsibilities were could have been beneficial. Related to this,
-we probably should have communicated better about how individual tasks of the project were going in case changes in
-expectations needed to happen earlier. Overall though, we do think that this project greatly increased our familiarity with Neo4j
+so we think being more specific about what our responsibilities were could have been beneficial. Related to this,
+we probably should have communicated better about how individual tasks of the project were going in case our
+expectations needed to change earlier. Overall though, we do think that this project greatly increased our familiarity with Neo4j
 and also helped us revisit many (especially general) concepts from earlier in the course.
