@@ -1,14 +1,14 @@
-## Group Summary
+# Group Summary
 
 
-# Description
+## Description
 
 Our project was to provide a broad overview of Neo4j which described how it is used, its capabilities, its internal architecture,
 how it is similar and dissimliar to both RDBMS (MariaDB) and Document Oriented (MongoDB) technologies, and provide
 some of its advantages and disadvantages of using it compared to other options. This was accomplished in the form of a
 paper which contains sections to address these topics.
 
-# Goals
+## Goals
 
 Our goals were mostly to discuss the above aspects with sufficient depth, which we feel that we achived. We had originally
 wanted to discuss a rest api aspect to neo4j, but ultimately decided to explore other areas in more depth.
@@ -18,23 +18,23 @@ Finally, we would have liked our data model to be based on the content of Stack 
 and post history would be represented) but due to a combination of outdated documentation and difficulty installing
 required libraries, we decided to use a different model.
 
-# Data Model
+## Data Model
 
 Our data model was sourced from the Neo4j website, and is available here https://neo4j.com/graphgist/flight-analyzer
 Pictured below is an abstract representation of the model.
 
-![ScreenShot](Abstract Data Model Picture.png)
+![Screenshot](Abstract Data Model Picture)
 
 As you can see, there are three basic entities: Flights, Airports, and Tickets which are modeled by nodes.
 In terms of relationships, Flights have origin and destination of Airports, and Tickets are assigned to Flights.
 
-# Future Work
+## Future Work
 
 Hypothetically, we think there is room to continue work on our project, but practically we don't think we will continue.
 For instance, security measures are an area we think we could have touched more on. It also would have been cool
 to analyze specific queries and describe what was going on behind the scenes internally.
 
-# Overall Reaction
+## Overall Reaction
 
 In retrospect, we both feel that we would have preferred working on an actual implementation project rather than a paper.
 An implementation project, depending on how well we did, would have more potential to include in a portfolio for 
