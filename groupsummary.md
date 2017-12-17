@@ -23,7 +23,7 @@ required libraries, we decided to use a different model.
 Our data model was sourced from the Neo4j website, and is available here https://neo4j.com/graphgist/flight-analyzer
 Pictured below is an abstract representation of the model.
 
-![Screenshot](Abstract Data Model Picture)
+![Screenshot](datamodel.png)
 
 As you can see, there are three basic entities: Flights, Airports, and Tickets which are modeled by nodes.
 In terms of relationships, Flights have origin and destination of Airports, and Tickets are assigned to Flights.
